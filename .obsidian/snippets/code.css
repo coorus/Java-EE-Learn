@@ -1,0 +1,79 @@
+/* 代码块背景色 */
+.expressive-code pre > code {
+    background-color: rgba(245, 245, 248, 0.8) !important;
+}
+
+/* 框架样式 */
+.frame {
+    border: 1px solid rgba(220, 220, 220, 0.75) !important;
+    padding: 3px !important;
+    margin: 0.8em 0 1em 0 !important;
+}
+
+/* 内联代码样式 */
+.markdown-rendered :not(pre) > code,
+.cm-s-obsidian span.cm-inline-code {
+    color: var(--inline-code-color);    /* 文字颜色 */
+    background: var(--inline-code-background); /* 背景颜色 */
+}
+
+/* 标题容器样式 */
+.header {
+    display: flex !important;
+    align-items: center !important;        /* 垂直居中内容 */
+    justify-content: center !important;    /* 水平居中内容 */
+    position: relative !important;         /* 相对定位 */
+    background-color: #f0f0f0 !important;
+    border-bottom: 1px solid #ddd !important;
+    padding: 10px !important;
+    height: 40px !important;               /* 可调整高度 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* 标题内容前的圆形元素 */
+.header::before,
+.header::after {
+    content: "" !important;
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important; /* 垂直居中 */
+    width: 12px !important;
+    height: 12px !important;
+    border-radius: 50% !important;
+    display: inline-block !important;
+}
+
+/* 第一个圆形（红色） */
+.header::before {
+    left: 10px !important;
+    background-color: #ff5f57 !important;
+    margin-right: 8px !important; /* 圆形之间的间距 */
+}
+
+/* 第二个圆形（橙色） */
+.header::after {
+    left: 22px !important;
+    background-color: #ffbd44 !important;
+}
+
+/* 第三个圆形（绿色） */
+.header::after {
+    left: 34px !important;
+    background-color: #27c93f !important;
+}
+
+/* 标题样式 */
+.title {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    color: #555 !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    margin-left: 50px !important;   /* 为圆形元素留出空间 */
+    margin-right: 50px !important;  /* 保持右侧留空 */
+}
+
+/* 去除不需要的线条 */
+.title::before,
+.title::after {
+    content: none !important;
+}

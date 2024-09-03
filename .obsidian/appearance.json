@@ -1,0 +1,21 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "line-height",
+    "width",
+    "table",
+    "layout-width",
+    "callout",
+    "code",
+    "header",
+    "list"
+  ],
+  "translucency": false,
+  "baseFontSize": 17,
+  "textFontFamily": "Songti SC,Microsoft Sans Serif,Microsoft YaHei,Heiti TC,SJ  lurongti",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": true
+}
