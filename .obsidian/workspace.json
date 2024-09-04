@@ -20,18 +20,31 @@
             }
           },
           {
+            "id": "2e59a035f266ae1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98c9dbe692f972ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "概念/字段注入、构造函数注入区别.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,7 @@
       {
         "id": "422b6177b8bdb922",
         "type": "tabs",
-        "dimension": 74.96886674968867,
+        "dimension": 74.35897435897436,
         "children": [
           {
             "id": "8bce2fe55505f344",
@@ -83,7 +96,7 @@
       {
         "id": "3eebc644db7b630b",
         "type": "tabs",
-        "dimension": 25.03113325031133,
+        "dimension": 25.64102564102564,
         "children": [
           {
             "id": "9629d6076100830e",
@@ -97,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "514142b65597db36",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
+                "file": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
+                "file": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.10 深入IOC 条件注解.md"
+                "file": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md"
               }
             }
           },
@@ -186,18 +198,19 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5db4b52a80da15b4",
+  "active": "2e59a035f266ae1c",
   "lastOpenFiles": [
-    "第一章 Spring Framework/1.5 Spring IOC 基于注解（Spring 2.0）.md",
     "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
+    "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
+    "Source/dictionary.md",
     "第一章 Spring Framework/1.9 深入IOC DI.md",
+    "概念/字段注入、构造函数注入区别.md",
+    "第一章 Spring Framework/1.5 Spring IOC 基于注解（Spring 2.0）.md",
     "第一章 Spring Framework/1.8 IOC Bean.md",
     "第一章 Spring Framework/1.7 Spring Boot介绍.md",
     "第一章 Spring Framework/1.6 Spring IOC 基于配置类（Spring 3.0）.md",
     "第一章 Spring Framework/1.4 Spring IOC 基于XML（Spring1.0）.md",
-    "概念/字段注入、构造函数注入区别.md",
     "第一章 Spring Framework/1.5 Spring IOC 基于注解（Spring 2.0） 1.md",
-    "Source/dictionary.md",
     "Source/展示图片/djsy.png",
     "第一章 Spring Framework/attachments/QQ_1724769632930.png",
     "概念/Bean.md",
@@ -232,7 +245,6 @@
     "读书笔记/05、关键对话20讲/01、对话能力的组成模块和进阶路径.md",
     "Java Web/第十章 JSP基础语法及原理/2-web组件跳转和mvc.md",
     "读书笔记/05、关键对话20讲/06、对手识别：如何洞悉对手的王牌和底牌.md",
-    "读书笔记/05、关键对话20讲/04、复杂事物的理解能力：知识和信息的拆解与再组装.md",
     "读书笔记/03、世界现代设计通识课/attachments",
     "未命名.canvas"
   ]

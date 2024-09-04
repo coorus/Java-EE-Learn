@@ -10,6 +10,7 @@ co-example=> >[!EXAMPLE] 示例\n> $END$ ,🌰示例,example
 co-warning=> >[!WARNING] 提醒\n> $END$ ,🫵警告,warning
 co-dialog=> >[!BLANK-CONTAINER] 对话\n> $END$ ,💬对话,dialog
 co-important=> >[!IMPORTANT] 重要\n> $END$ ,🦄重要,important
+key=> * 💎  $END$ ,💎 着重强调,key
 
 %% br %%
 br=> <br>\n$END$,😘空行,blank line

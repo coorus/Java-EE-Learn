@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "1.11 深入IOC 生命周期回调 💎",
+      "path": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md"
+    },
+    {
       "basename": "1.10 深入IOC 条件注解",
       "path": "第一章 Spring Framework/1.10 深入IOC 条件注解.md"
     },
     {
-      "basename": "1.5 Spring IOC 基于注解（Spring 2.0）",
-      "path": "第一章 Spring Framework/1.5 Spring IOC 基于注解（Spring 2.0）.md"
+      "basename": "dictionary",
+      "path": "Source/dictionary.md"
     },
     {
       "basename": "1.9 深入IOC DI",
       "path": "第一章 Spring Framework/1.9 深入IOC DI.md"
+    },
+    {
+      "basename": "字段注入、构造函数注入区别",
+      "path": "概念/字段注入、构造函数注入区别.md"
+    },
+    {
+      "basename": "1.5 Spring IOC 基于注解（Spring 2.0）",
+      "path": "第一章 Spring Framework/1.5 Spring IOC 基于注解（Spring 2.0）.md"
     },
     {
       "basename": "1.8 IOC Bean",
@@ -27,14 +39,6 @@
     {
       "basename": "1.4 Spring IOC 基于XML（Spring1.0）",
       "path": "第一章 Spring Framework/1.4 Spring IOC 基于XML（Spring1.0）.md"
-    },
-    {
-      "basename": "字段注入、构造函数注入区别",
-      "path": "概念/字段注入、构造函数注入区别.md"
-    },
-    {
-      "basename": "dictionary",
-      "path": "Source/dictionary.md"
     },
     {
       "basename": "djsy",
@@ -195,10 +199,6 @@
     {
       "basename": "计算机基础",
       "path": "专业通识/计算机基础/计算机基础.md"
-    },
-    {
-      "basename": "Pasted image 20240318150341",
-      "path": "专业通识/计算机基础/attachments/Pasted image 20240318150341.png"
     }
   ],
   "omittedPaths": [],
