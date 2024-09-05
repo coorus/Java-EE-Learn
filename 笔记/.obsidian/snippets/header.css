@@ -101,7 +101,7 @@ h3::before, h4::before, h5::before, h6::before {
   --header-before-adjustment-value: 0.25em;
   --h3-before-content-size: calc(var(--h3-font-size) - var(--header-before-adjustment-value));
   --h4-before-content-size: calc(var(--h4-font-size) - var(--header-before-adjustment-value));
-  --h5-before-content-size: calc(var(--h5-font-size) - var(--header-before-adjustment-value) + 0.2em);
+  --h5-before-content-size: calc(var(--h5-font-size) - var(--header-before-adjustment-value));
   --h6-before-content-size: calc(var(--h6-font-size) - var(--header-before-adjustment-value));
 
   --header-primary-margin-left: 0.7em;
