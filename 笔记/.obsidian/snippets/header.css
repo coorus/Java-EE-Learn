@@ -1,0 +1,349 @@
+/* header.css */
+
+/* 字体引入 */
+@font-face {
+  font-family: 'AlibabaHealthFont';
+  src: url('fonts/AlibabaHealthFont/AlibabaHealthFont2.0CN-45R.ttf') format('truetype');
+  font-weight: 400; /* 细体 */
+}
+
+@font-face {
+  font-family: 'AlibabaHealthFont';
+  src: url('fonts/AlibabaHealthFont/AlibabaHealthFont2.0CN-85B.ttf') format('truetype');
+  font-weight: 700; /* 粗体 */
+}
+
+@font-face {
+  font-family: 'SanJiLuRongTi';
+  src: url('fonts/SanJiLuRongTi/SanJiLuRongTi-Xi-2.ttf') format('truetype');
+  font-weight: 300; /* 细体 */
+}
+
+/* 通用标题样式 */
+h1, h2, h3, h4, h5, h6,
+.HyperMD-header-1, .HyperMD-header-2, .HyperMD-header-3,
+.HyperMD-header-4, .HyperMD-header-5, .HyperMD-header-6 {
+  font-family: 'AlibabaHealthFont', sans-serif !important;
+  font-weight: 700 !important;
+  padding: 0 !important;
+}
+
+/* 标题前添加图标的字体 */
+h3::before, h4::before, h5::before, h6::before {
+  font-family: 'Font Awesome 6 Pro Solid';
+}
+
+/* CSS 变量定义 */
+:root {
+  --h1-font-size: 1.802em;
+  --h2-font-size: 1.55em;
+  --h3-font-size: 1.18em;
+  --h4-font-size: 1.1em;
+  --h5-font-size: 1.1em;
+  --h6-font-size: 1.0em;
+  --p-font-size: 1.0em;
+
+  --h1-margin-top: 1.0em;
+  --h2-margin-top: 1.5em;
+  --h3-margin-top: 1.2em;
+  --h4-margin-top: 1.5em;
+  --h5-margin-top: 2.0em;
+  --h6-margin-top: 1.0em;
+
+
+  --h1-primary-line-height: 2.7em;
+  --h2-primary-line-height: 1.9em;
+  --h3-primary-line-height: 2.2em;
+  --h4-primary-line-height: 1.8em;
+  --h5-primary-line-height: 1.6em;
+  --h6-primary-line-height: 1.6em;
+  --li-line-height: 1.7em;
+  --p-line-height: 1.5em;
+
+  --h3-primary-color: 40, 110, 180;
+  --h4-primary-color: 200, 100, 30;
+  --h5-primary-color: 70, 150, 120;
+  --h6-primary-color: 150, 70, 150;
+
+  --h3-background-color: var(--h3-primary-color);
+  --h4-background-color: var(--h4-primary-color);
+  --h5-background-color: var(--h5-primary-color);
+  --h6-background-color: var(--h6-primary-color);
+
+  --h3-text-opacity: 0.9;
+  --h4-text-opacity: 0.9;
+  --h5-text-opacity: 1;
+  --h6-text-opacity: 0.9;
+
+  --h3-background-opacity: 0.08;
+  --h4-background-opacity: 0.08;
+  --h5-background-opacity: 0.08;
+  --h6-background-opacity: 0.08;
+
+  --fa-cat-space: "\e001";
+  --fa-t-rex: "\e629";
+  --fa-motorcycle: "\f21c";
+  --fa-space-station-moon-construction: "\e034";
+  --fa-narwhal: "\f6fe";
+  --fa-clouds-moon: "\f745";
+  --fa-duck: "\f6d8";
+  --fa-alicorn: "\f6b0";
+  --fa-ram: "\f70a";
+  --fa-elephant: "\f6da";
+  --fa-rabbit: "\f708";
+  --fa-circle-small: "\f192";
+
+  --h3-before-content: var(--fa-cat-space);
+  --h4-before-content: "\e629";
+  --h5-before-content: "\e027";
+  --h6-before-content: "";
+
+  --header-before-adjustment-value: 0.25em;
+  --h3-before-content-size: calc(var(--h3-font-size) - var(--header-before-adjustment-value));
+  --h4-before-content-size: calc(var(--h4-font-size) - var(--header-before-adjustment-value));
+  --h5-before-content-size: calc(var(--h5-font-size) - var(--header-before-adjustment-value) + 0.2em);
+  --h6-before-content-size: calc(var(--h6-font-size) - var(--header-before-adjustment-value));
+
+  --header-primary-margin-left: 0.7em;
+  --header-border-radius: 0.3em;
+}
+
+/* 段落与列表样式 */
+p {
+  font-size: var(--p-font-size) !important;
+  line-height: var(--p-line-height) !important;
+}
+
+li {
+  line-height: var(--li-line-height) !important;
+}
+
+li p {
+  margin: 0 !important;
+}
+
+.markdown-rendered div:has(> :is(p, pre, table, ul, ol)) + div > :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 1em !important; /* 你可以根据需要调整 margin 值 */
+}
+
+
+/* 各标题特定样式 */
+.HyperMD-header-1, h1 {
+  font-size: var(--h1-font-size);
+  line-height:var(--h1-primary-line-height) !important;
+}
+
+.HyperMD-header-2, h2 {
+  font-size: var(--h2-font-size) !important;
+  margin-top: var(--h2-margin-top) !important;
+
+  line-height:var(--h2-primary-line-height) !important;
+
+
+  border-bottom: 0.07em solid rgba(220, 220, 220, 0.6);
+  box-shadow: 0 2px 3px -2px rgba(180, 180, 180, 0.1);
+
+/*  margin-top: var(--h2-margin-top) !important;*/
+
+}
+
+.HyperMD-header-3 {
+  line-height: 2em;
+  padding: 0.5em 0 0.3em 0 !important;
+}
+
+
+
+h3 {
+  font-size: var(--h3-font-size) !important;
+  color: rgb(var(--h3-primary-color)) !important;
+  opacity: var(--h3-text-opacity);
+  background-color: rgba(var(--h3-background-color), var(--h3-background-opacity)) !important;
+  line-height: var(--h3-primary-line-height) !important;
+  border-radius: var(--header-border-radius);
+  margin-top: var(--h3-margin-top) !important;
+}
+
+h4 {
+  font-size: var(--h4-font-size) !important;
+  color: rgb(var(--h4-primary-color)) !important;
+  opacity: var(--h4-text-opacity);
+  background-color: rgba(var(--h4-background-color), var(--h4-background-opacity)) !important;
+  line-height: var(--h4-primary-line-height) !important;
+  border-radius: var(--header-border-radius);
+
+/*  margin-top: var(--h4-margin-top) !important;*/
+
+}
+
+h5 {
+  font-size: var(--h5-font-size) !important;
+  color: rgb(var(--h5-primary-color)) !important;
+  opacity: var(--h5-text-opacity);
+  background-color: rgba(var(--h5-background-color), var(--h5-background-opacity)) !important;
+  line-height: var(--h5-primary-line-height) !important;
+  border-radius: var(--header-border-radius);
+
+  margin-top: var(--h5-margin-top) !important;
+}
+
+h6 {
+  font-size: var(--h6-font-size) !important;
+  color: rgb(var(--h6-primary-color)) !important;
+  opacity: var(--h6-text-opacity);
+  background-color: rgba(var(--h6-background-color), var(--h6-background-opacity)) !important;
+  line-height: var(--h6-primary-line-height) !important;
+  border-radius: var(--header-border-radius);
+}
+
+/* 为标题添加前置图标 */
+h3::before {
+  content: var(--h3-before-content);
+  font-size: var(--h3-before-content-size);
+  margin: var(--header-primary-margin-left);
+  color: rgb(var(--h3-primary-color));
+}
+
+h4::before {
+  content: var(--h4-before-content);
+  font-size: var(--h4-before-content-size);
+  margin: var(--header-primary-margin-left);
+  color: rgb(var(--h4-primary-color));
+}
+
+
+h5::before {
+  content: var(--h5-before-content);
+  font-size: var(--h5-before-content-size);
+  margin: var(--header-primary-margin-left);
+  color: rgb(var(--h5-primary-color));
+}
+
+h6::before {
+  padding-left: 0.3em !important;
+  content: var(--h6-before-content);
+/*  font-size: var(--h6-before-content-size);
+  margin: var(--header-primary-margin-left);
+  color: rgb(var(--h6-primary-color));*/
+}
+
+h3::after, h4::after, h5::after, h6::after {
+  padding-right: 1.5em;
+
+  font-size: 0.6em;
+  float: right;
+  color: rgba(155, 155, 155, 0.6);
+}
+
+h3::after {
+  content: 'h3';
+
+}
+
+h4::after {
+  content: 'h4';
+
+}
+
+h5::after {
+  content: 'h5';
+
+}
+
+h6::after {
+  content: 'h6';
+}
+
+
+/* 特定类的样式 */
+.HyperMD-header.HyperMD-header-4.cm-line,
+.HyperMD-header.HyperMD-header-5.cm-line,
+.HyperMD-header.HyperMD-header-6.cm-line {
+  padding: 0.5em 0 0 0 !important;
+}
+
+.HyperMD-header.HyperMD-header-5.cm-line,
+.HyperMD-header.HyperMD-header-6.cm-line {
+  padding: 1em 0 0 0 !important;
+}
+
+/* 选择类名为 cm-line 或包含 cm-active 和 cm-line 的元素 */
+[class='cm-line'], 
+[class='cm-active cm-line'] {
+  padding: 0.5em 0 !important;
+}
+
+/* 选择类名为 HyperMD-list-line 的特定样式 */
+[class='HyperMD-list-line HyperMD-list-line-1 cm-line'],
+[class='cm-active HyperMD-list-line HyperMD-list-line-1 cm-line'] {
+  padding-top: 0.6em !important;
+}
+
+
+div:has(h1), div:has(h2), div:has(h3), div:has(h4), div:has(h5), div:has(h6){
+  position: relative;
+}
+
+h1 > span.heading-collapse-indicator.collapse-indicator.collapse-icon,
+h2 > span.heading-collapse-indicator.collapse-indicator.collapse-icon,
+h3 > span.heading-collapse-indicator.collapse-indicator.collapse-icon,
+h4 > span.heading-collapse-indicator.collapse-indicator.collapse-icon,
+h5 > span.heading-collapse-indicator.collapse-indicator.collapse-icon,
+h6 > span.heading-collapse-indicator.collapse-indicator.collapse-icon {
+    display: inline-block !important;  使用 flexbox 对齐子元素 
+    align-items: center; /* 垂直居中 */
+    width: 100%; /* 占满父元素的宽度 */
+    height: 100%; /* 占满父元素的高度 */
+    position: absolute; /* 绝对定位使其覆盖父元素 */
+    top: 0; /* 从父元素顶部开始 */
+    left: 0; /* 从父元素左侧开始 */
+}
+
+
+div > :is(div:first-child)[class*="block-language"] {
+  margin-top: 1em;
+    /* 样式定义 */
+}
+
+li p + div[class*="block-language"] {
+}
+
+
+[data-level="3"] {
+  margin-left: 1em !important;
+}
+
+.toolbar {
+/*  background-color: red !important;*/
+  margin: 0 !important;
+}
+
+
+
+.toolbar.pin {
+  margin-top: 1.9em !important;
+/*  background-color: red !important;*/
+}
+
+
+[class="tree-item-self is-clickable nav-file-title tappable"],
+[class="tree-item-self is-clickable nav-file-title tappable is-active"] {
+  margin-top: 0.25em;
+}
+
+[class="tree-item-inner nav-file-title-content"],
+[class="tree-item-self is-clickable nav-file-title tappable is-active"] {
+/*  background-color: red;*/
+  margin-left: 0.5em;
+}
+
+code {
+  padding: 0 0.5em !important;
+  background-color: rgba(155, 155, 155, 0.16) !important;
+}
+
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+  padding: 0 !important;
+  background-color: rgba(155, 155, 155, 0.0) !important;
+}
+
