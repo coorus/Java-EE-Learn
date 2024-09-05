@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "1.13 AOP介绍",
+      "path": "第一章 Spring Framework/1.13 AOP介绍.md"
+    },
+    {
       "basename": "1.12 深入IOC循环依赖",
       "path": "第一章 Spring Framework/1.12 深入IOC循环依赖.md"
+    },
+    {
+      "basename": "ChatGPT提示语",
+      "path": "概念/ChatGPT提示语.md"
     },
     {
       "basename": "README",
@@ -191,10 +199,6 @@
     {
       "basename": "Obsidian教学",
       "path": "散乱笔记/obsidian使用/Obsidian教学.md"
-    },
-    {
-      "basename": "Obsidian Snippets",
-      "path": "散乱笔记/obsidian使用/Obsidian Snippets.md"
     }
   ],
   "omittedPaths": [],

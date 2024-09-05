@@ -10,10 +10,11 @@
     "callout",
     "code",
     "header",
-    "list"
+    "list",
+    "font"
   ],
   "translucency": false,
-  "baseFontSize": 16,
+  "baseFontSize": 20,
   "textFontFamily": "Heiti TC,Songti SC,Microsoft Sans Serif,Microsoft YaHei,SJ  lurongti",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",

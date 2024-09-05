@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md"
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   "active": "60aa9427f0941586",
   "lastOpenFiles": [
     "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+    "概念/ChatGPT提示语.md",
+    "第一章 Spring Framework/1.13 AOP介绍.md",
     "概念/Bean.md",
     "概念/字段注入、构造函数注入区别.md",
     "概念/IntelliJ IDEA编辑模板变量详解(Edit Template Variables).md",
@@ -219,7 +221,6 @@
     "Source/Templates/Debriefing.md",
     "Java SE基础/第一章 JRE、JVM、JDK/包和访问控制权限.md",
     "Java SE基础/第一章 JRE、JVM、JDK/未命名.md",
-    "Java SE基础/第一章 JRE、JVM、JDK/JVM、JRE、JDK.md",
     "读书笔记/03、世界现代设计通识课/attachments",
     "未命名.canvas"
   ]

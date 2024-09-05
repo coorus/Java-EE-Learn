@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "7136f399827f9181",
+    "type": "split",
+    "children": [
+      {
+        "id": "808e8275ba84ce03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60aa9427f0941586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e177b5fc5c972cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "422b6177b8bdb922",
+        "type": "tabs",
+        "dimension": 74.35897435897436,
+        "children": [
+          {
+            "id": "8bce2fe55505f344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "3e23044936c9b6f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3765585f3212861c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3eebc644db7b630b",
+        "type": "tabs",
+        "dimension": 25.64102564102564,
+        "children": [
+          {
+            "id": "9629d6076100830e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "514142b65597db36",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e92a834047d133b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e66cf14390df16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03106cc95ab4dc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d8d5f96beb73313",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da5d6d37d35d3f28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第一章 Spring Framework/1.12 深入IOC循环依赖.md"
+              }
+            }
+          },
+          {
+            "id": "491136f996ac9e0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "callout-manager:Insert Callout": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "60aa9427f0941586",
+  "lastOpenFiles": [
+    "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+    "概念/Bean.md",
+    "概念/字段注入、构造函数注入区别.md",
+    "概念/IntelliJ IDEA编辑模板变量详解(Edit Template Variables).md",
+    "概念/耦合.md",
+    "第一章 Spring Framework/1.08 IOC Bean.md",
+    "第一章 Spring Framework/1.09 深入IOC DI.md",
+    "概念/依赖注入.md",
+    "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md",
+    "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）.md",
+    "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
+    "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
+    "第一章 Spring Framework/attachments/hao.png",
+    "第一章 Spring Framework/attachments/QQ_1724742940722.png",
+    "第一章 Spring Framework/attachments/QQ_1725515031567.png",
+    "第一章 Spring Framework/attachments/QQ_1725527186381.png",
+    "第一章 Spring Framework/attachments/QQ_1725527151867.png",
+    "第一章 Spring Framework/attachments/QQ_1725514804787.png",
+    "第一章 Spring Framework/1.07 Spring Boot介绍.md",
+    "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md",
+    "README.md",
+    "欢迎.md",
+    "Source/dictionary.md",
+    "第一章 Spring Framework/1.5 Spring IOC 基于注解（Spring 2.0） 1.md",
+    "Source/展示图片/djsy.png",
+    "第一章 Spring Framework/attachments/QQ_1724769632930.png",
+    "第一章 Spring Framework/attachments/QQ_1724751057783.png",
+    "第一章 Spring Framework/attachments/QQ_1724743319100.png",
+    "Source/展示图片",
+    "第一章 Spring Framework/1.7 Spring Boot介绍 1.md",
+    "第一章 Spring Framework/attachments",
+    "未命名/未命名.md",
+    "未命名",
+    "第一章 Spring Framework",
+    "概念",
+    "概念/attachments",
+    "Spring/第一章 Spring Framework/1.4 Sping IOC基于XML.md",
+    "Spring/第一章 Spring Framework",
+    "Spring",
+    "Source",
+    "Source/Templates/Debriefing.md",
+    "Java SE基础/第一章 JRE、JVM、JDK/包和访问控制权限.md",
+    "Java SE基础/第一章 JRE、JVM、JDK/未命名.md",
+    "Java SE基础/第一章 JRE、JVM、JDK/JVM、JRE、JDK.md",
+    "读书笔记/03、世界现代设计通识课/attachments",
+    "未命名.canvas"
+  ]
+}

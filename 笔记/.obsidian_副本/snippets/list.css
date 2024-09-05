@@ -1,0 +1,42 @@
+/* Root variables */
+:root {
+  --primary-padding-length: 2em; /* 主 padding 长度 */
+}
+
+/* General list item margin */
+ul li {
+  margin: 0 0 0 0em !important; /* 设置左侧 margin */
+}
+
+ul li ul{
+  margin: 0 0 0 1em !important; /* 设置左侧 margin */
+}
+
+ul li ul li {
+  padding-left: 1em !important;
+}
+
+
+ol li {
+  padding-left: 0.5em !important;
+  margin: 0 0 0 0em !important; /* 设置左侧 margin */
+}
+
+
+/* Style for <li> in <ol> */
+ol li {
+  border: 0.1em solid rgba(0, 0, 0, 0.01); /* 边框 */
+  border-radius: 0.2em; /* 边框圆角 */
+  margin: 0 0 0 1em !important; /* 左侧 margin */
+  padding-left: 0.2em; /* 左侧 padding */
+}
+
+/* Remove default bullet from <ol> */
+ol::before {
+  border: none !important; /* 去除默认边框 */
+}
+
+/* General margin for <ul> */
+ul {
+  margin: 0 0 0 1em !important; /* 上侧 margin */
+}
