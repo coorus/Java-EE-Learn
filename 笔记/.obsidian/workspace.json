@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.08 IOC Bean 💎.md",
-                "mode": "preview",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.08 IOC Bean 💎.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.08 IOC Bean 💎.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.08 IOC Bean 💎.md"
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "bc40ed4ec51083fd",
   "lastOpenFiles": [
-    "概念/Bean.md",
     "第一章 Spring Framework/1.08 IOC Bean 💎.md",
+    "概念/Bean.md",
     "第一章 Spring Framework/1.07 Spring Boot介绍.md",
     "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md",
     "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md",

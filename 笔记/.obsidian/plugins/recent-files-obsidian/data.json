@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.13 AOP介绍",
+      "path": "第一章 Spring Framework/1.13 AOP介绍.md"
+    },
+    {
       "basename": "1.08 IOC Bean 💎",
       "path": "第一章 Spring Framework/1.08 IOC Bean 💎.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "1.04 Spring IOC 基于XML（Spring1.0）",
       "path": "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md"
-    },
-    {
-      "basename": "1.13 AOP介绍",
-      "path": "第一章 Spring Framework/1.13 AOP介绍.md"
     },
     {
       "basename": "耦合",
