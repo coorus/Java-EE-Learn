@@ -15,5 +15,7 @@
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "shiki-highlighter",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "hello-world-plugin",
+  "image-width-plugin"
 ]

@@ -15,7 +15,7 @@
   "delayMilliSeconds": 100,
   "disableSuggestionsDuringImeOn": true,
   "disableSuggestionsInMathBlock": false,
-  "insertAfterCompletion": true,
+  "insertSpaceAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
   "patternsToSuppressTrigger": [
     "^~~~.*",
@@ -64,11 +64,13 @@
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
+  "excludeCurrentFileWordPatterns": [],
   "enableCurrentVaultComplement": true,
   "currentVaultMinNumberOfCharacters": 2,
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "excludeCurrentVaultWordPatterns": [],
   "enableCustomDictionaryComplement": true,
   "customDictionaryPaths": "./Source/dictionary.md\n",
   "columnDelimiter": "Comma",
@@ -98,5 +100,6 @@
   },
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
+  "insertAfterCompletion": true,
   "selectionHistoryTree": {}
 }

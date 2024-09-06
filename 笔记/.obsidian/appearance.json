@@ -11,10 +11,11 @@
     "code",
     "header",
     "list",
-    "font"
+    "font",
+    "links"
   ],
   "translucency": false,
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "textFontFamily": "Heiti TC,Songti SC,Microsoft Sans Serif,Microsoft YaHei,SJ  lurongti",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",

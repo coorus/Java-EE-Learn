@@ -1,17 +1,18 @@
 /* header.css */
 
 /* 字体引入 */
-@font-face {
+
+/*@font-face {
   font-family: 'AlibabaHealthFont';
   src: url('fonts/AlibabaHealthFont/AlibabaHealthFont2.0CN-45R.ttf') format('truetype');
   font-weight: 400; /* 细体 */
-}
+}*/
 
-@font-face {
+/*@font-face {
   font-family: 'AlibabaHealthFont';
   src: url('fonts/AlibabaHealthFont/AlibabaHealthFont2.0CN-85B.ttf') format('truetype');
   font-weight: 700; /* 粗体 */
-}
+}*/
 
 @font-face {
   font-family: 'SanJiLuRongTi';
@@ -295,8 +296,23 @@ h6 > span.heading-collapse-indicator.collapse-indicator.collapse-icon {
     width: 100%; /* 占满父元素的宽度 */
     height: 100%; /* 占满父元素的高度 */
     position: absolute; /* 绝对定位使其覆盖父元素 */
+    z-index: 5; 
     top: 0; /* 从父元素顶部开始 */
     left: 0; /* 从父元素左侧开始 */
+}
+
+h1 > a.internal-link,
+h2 > a.internal-link,
+h3 > a.internal-link,
+h4 > a.internal-link,
+h5 > a.internal-link,
+h16 > a.internal-link  {
+  position: relative;
+  z-index: 10; 
+}
+
+.heading-collapse-indicator {
+  position: relative;
 }
 
 
@@ -346,4 +362,3 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   padding: 0 !important;
   background-color: rgba(155, 155, 155, 0.0) !important;
 }
-
