@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他操作/git.md",
-                "mode": "preview",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3eebc644db7b630b",
@@ -86,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "514142b65597db36",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他操作/git.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他操作/git.md",
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他操作/git.md"
+                "file": "第一章 Spring Framework/1.13 AOP介绍.md"
               }
             }
           },
@@ -176,22 +176,24 @@
   },
   "active": "60aa9427f0941586",
   "lastOpenFiles": [
+    "第一章 Spring Framework/attachments/QQ_1725602707364.png",
+    "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
+    "第一章 Spring Framework/1.08 IOC Bean 💎.md",
+    "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md",
     "第一章 Spring Framework/1.13 AOP介绍.md",
-    "第一章 Spring Framework/1.12 深入IOC循环依赖.md",
+    "第一章 Spring Framework/attachments/QQ_1725601656924.png",
+    "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md",
+    "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
+    "第一章 Spring Framework/1.09 深入IOC DI 💎.md",
+    "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md",
+    "其他操作/git.md",
     "Source/img/shinobu_kochō.png",
     "Source/img/sinon_1.png",
     "第一章 Spring Framework/attachments/QQ_1725561438727.png",
-    "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
-    "第一章 Spring Framework/1.09 深入IOC DI.md",
-    "第一章 Spring Framework/1.08 IOC Bean.md",
     "第一章 Spring Framework/1.07 Spring Boot介绍.md",
-    "其他操作/git.md",
     "Source/img/sinon_2.png",
     "第一章 Spring Framework/attachments/QQ_1725527186381.png",
-    "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
-    "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）.md",
     "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md",
-    "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md",
     "第一章 Spring Framework/attachments/QQ_1725560272118.png",
     "第一章 Spring Framework/attachments/QQ_1725560153636.png",
     "Source/img/jk.png",

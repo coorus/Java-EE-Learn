@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "git",
-      "path": "其他操作/git.md"
-    },
-    {
       "basename": "1.13 AOP介绍",
       "path": "第一章 Spring Framework/1.13 AOP介绍.md"
     },
     {
-      "basename": "1.12 深入IOC循环依赖",
-      "path": "第一章 Spring Framework/1.12 深入IOC循环依赖.md"
+      "basename": "1.10 深入IOC 条件注解",
+      "path": "第一章 Spring Framework/1.10 深入IOC 条件注解.md"
+    },
+    {
+      "basename": "1.08 IOC Bean 💎",
+      "path": "第一章 Spring Framework/1.08 IOC Bean 💎.md"
+    },
+    {
+      "basename": "1.04 Spring IOC 基于XML（Spring1.0）",
+      "path": "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md"
+    },
+    {
+      "basename": "1.12 深入IOC循环依赖 💎",
+      "path": "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md"
+    },
+    {
+      "basename": "1.11 深入IOC 生命周期回调 💎",
+      "path": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md"
+    },
+    {
+      "basename": "1.09 深入IOC DI 💎",
+      "path": "第一章 Spring Framework/1.09 深入IOC DI 💎.md"
+    },
+    {
+      "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）💎",
+      "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md"
+    },
+    {
+      "basename": "git",
+      "path": "其他操作/git.md"
     },
     {
       "basename": "shinobu_kochō",
@@ -19,18 +43,6 @@
     {
       "basename": "sinon_1",
       "path": "Source/img/sinon_1.png"
-    },
-    {
-      "basename": "1.10 深入IOC 条件注解",
-      "path": "第一章 Spring Framework/1.10 深入IOC 条件注解.md"
-    },
-    {
-      "basename": "1.09 深入IOC DI",
-      "path": "第一章 Spring Framework/1.09 深入IOC DI.md"
-    },
-    {
-      "basename": "1.08 IOC Bean",
-      "path": "第一章 Spring Framework/1.08 IOC Bean.md"
     },
     {
       "basename": "1.07 Spring Boot介绍",
@@ -45,20 +57,8 @@
       "path": "第一章 Spring Framework/attachments/QQ_1725527186381.png"
     },
     {
-      "basename": "1.11 深入IOC 生命周期回调 💎",
-      "path": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md"
-    },
-    {
-      "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）",
-      "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）.md"
-    },
-    {
       "basename": "1.05 Spring IOC 基于注解（Spring 2.0）",
       "path": "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md"
-    },
-    {
-      "basename": "1.04 Spring IOC 基于XML（Spring1.0）",
-      "path": "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md"
     },
     {
       "basename": "dj",

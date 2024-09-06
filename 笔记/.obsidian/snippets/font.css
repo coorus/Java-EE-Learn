@@ -1,5 +1,5 @@
 strong:not(blockquote strong) {
-  background-color: rgba(230, 190, 0, 0.2); 
+  background-color: #fff88f; 
   padding: 0 0.2em;
 }
 
@@ -10,5 +10,5 @@ h4 strong,
 h5 strong, 
 h6 strong,
 li strong {
-  background-color: rgba(230, 190, 0, 0) !important; 
+  background-color: rgba(0, 0, 0, 0.0) !important; 
 }
