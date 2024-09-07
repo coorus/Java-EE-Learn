@@ -40,29 +40,29 @@ h3::before, h4::before, h5::before, h6::before {
   --h2-font-size: 1.55em;
   --h3-font-size: 1.18em;
   --h4-font-size: 1.1em;
-  --h5-font-size: 1.1em;
+  --h5-font-size: 1.0em;
   --h6-font-size: 1.0em;
   --p-font-size: 1.0em;
 
   --h1-margin-top: 1.0em;
   --h2-margin-top: 1.5em;
   --h3-margin-top: 1.2em;
-  --h4-margin-top: 1.5em;
-  --h5-margin-top: 2.0em;
-  --h6-margin-top: 1.0em;
+  --h4-margin-top: 1.2em;
+  --h5-margin-top: 1.5em;
+  --h6-margin-top: 1.5em;
 
 
   --h1-primary-line-height: 2.7em;
   --h2-primary-line-height: 1.9em;
-  --h3-primary-line-height: 2.2em;
-  --h4-primary-line-height: 1.8em;
-  --h5-primary-line-height: 1.6em;
-  --h6-primary-line-height: 1.6em;
+  --h3-primary-line-height: 1.6em;
+  --h4-primary-line-height: 1.4em;
+  --h5-primary-line-height: 1.2em;
+  --h6-primary-line-height: 1.0em;
   --li-line-height: 1.7em;
   --p-line-height: 1.8em;
 
   --h3-primary-color: 40, 110, 180;
-  --h4-primary-color: 200, 100, 30;
+  --h4-primary-color: 130, 130, 50;
   --h5-primary-color: 70, 150, 120;
   --h6-primary-color: 150, 70, 150;
 
@@ -71,10 +71,10 @@ h3::before, h4::before, h5::before, h6::before {
   --h5-background-color: var(--h5-primary-color);
   --h6-background-color: var(--h6-primary-color);
 
-  --h3-text-opacity: 0.9;
-  --h4-text-opacity: 0.9;
+  --h3-text-opacity: 1;
+  --h4-text-opacity: 1;
   --h5-text-opacity: 1;
-  --h6-text-opacity: 0.9;
+  --h6-text-opacity: 1;
 
   --h3-background-opacity: 0.08;
   --h4-background-opacity: 0.08;
@@ -94,16 +94,21 @@ h3::before, h4::before, h5::before, h6::before {
   --fa-rabbit: "\f708";
   --fa-circle-small: "\f192";
 
-  --h3-before-content: var(--fa-cat-space);
+  --h3-before-content: "\e001";
   --h4-before-content: "\e629";
   --h5-before-content: "\e027";
   --h6-before-content: "";
 
-  --header-before-adjustment-value: 0.25em;
+/*  --header-before-adjustment-value: 0.25em;
   --h3-before-content-size: calc(var(--h3-font-size) - var(--header-before-adjustment-value));
   --h4-before-content-size: calc(var(--h4-font-size) - var(--header-before-adjustment-value));
   --h5-before-content-size: calc(var(--h5-font-size) - var(--header-before-adjustment-value));
   --h6-before-content-size: calc(var(--h6-font-size) - var(--header-before-adjustment-value));
+*/
+  --h3-before-content-size: 0.75em;
+  --h4-before-content-size: 0.75em;
+  --h5-before-content-size: 0.75em;
+  --h6-before-content-size: 0.75em;
 
   --header-primary-margin-left: 0.7em;
   --header-border-radius: 0.3em;
@@ -153,7 +158,10 @@ li p {
   padding: 0.5em 0 0.3em 0 !important;
 }
 
-
+h3, h4, h5, h6 {
+  display: flex;
+  align-items: center; /* 让 h3 内部所有元素垂直居中 */
+}
 
 h3 {
   font-size: var(--h3-font-size) !important;
@@ -162,7 +170,7 @@ h3 {
   background-color: rgba(var(--h3-background-color), var(--h3-background-opacity)) !important;
   line-height: var(--h3-primary-line-height) !important;
   border-radius: var(--header-border-radius);
-  margin-top: var(--h3-margin-top) !important;
+
 }
 
 h4 {
@@ -173,7 +181,8 @@ h4 {
   line-height: var(--h4-primary-line-height) !important;
   border-radius: var(--header-border-radius);
 
-/*  margin-top: var(--h4-margin-top) !important;*/
+  margin-top: var(--h4-margin-top) !important;
+
 
 }
 
@@ -195,6 +204,8 @@ h6 {
   background-color: rgba(var(--h6-background-color), var(--h6-background-opacity)) !important;
   line-height: var(--h6-primary-line-height) !important;
   border-radius: var(--header-border-radius);
+  margin-top: var(--h6-margin-top) !important;
+
 }
 
 /* 为标题添加前置图标 */
@@ -203,6 +214,7 @@ h3::before {
   font-size: var(--h3-before-content-size);
   margin: var(--header-primary-margin-left);
   color: rgb(var(--h3-primary-color));
+
 }
 
 h4::before {
@@ -223,16 +235,14 @@ h5::before {
 h6::before {
   padding-left: 0.3em !important;
   content: var(--h6-before-content);
-/*  font-size: var(--h6-before-content-size);
-  margin: var(--header-primary-margin-left);
-  color: rgb(var(--h6-primary-color));*/
 }
 
 h3::after, h4::after, h5::after, h6::after {
+  position: absolute;
+  right: 0;
   padding-right: 1.5em;
 
   font-size: 0.6em;
-  float: right;
   color: rgba(155, 155, 155, 0.6);
 }
 
@@ -301,6 +311,7 @@ h6 > span.heading-collapse-indicator.collapse-indicator.collapse-icon {
     left: 0; /* 从父元素左侧开始 */
 }
 
+/*标题链接被覆盖修复*/
 h1 > a.internal-link,
 h2 > a.internal-link,
 h3 > a.internal-link,
@@ -361,4 +372,14 @@ code {
 h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   padding: 0 !important;
   background-color: rgba(155, 155, 155, 0.0) !important;
+}
+
+
+li.heading-list-item[data-level="4"] {
+    margin-left: 2em !important; /* 根据需要调整缩进值 */
+}
+
+
+.floating-toc-div.pin .floating-toc, .floating-toc:hover {
+  max-width: 20em;
 }

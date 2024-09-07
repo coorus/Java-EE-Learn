@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "第一章 Spring Framework/1.13 AOP介绍.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82640e45ef3e1562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章 Spring Framework/1.14 AOP的使用.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
+                "file": "第一章 Spring Framework/1.14 AOP的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
+                "file": "第一章 Spring Framework/1.14 AOP的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.13 AOP介绍.md"
+                "file": "第一章 Spring Framework/1.14 AOP的使用.md"
               }
             }
           },
@@ -173,15 +186,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc40ed4ec51083fd",
+  "active": "82640e45ef3e1562",
   "lastOpenFiles": [
+    "第一章 Spring Framework/1.13 AOP介绍.md",
+    "第一章 Spring Framework/1.14 AOP的使用.md",
     "第一章 Spring Framework/1.08 IOC Bean 💎.md",
     "概念/Bean.md",
     "第一章 Spring Framework/1.07 Spring Boot介绍.md",
     "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md",
     "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md",
     "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md",
-    "第一章 Spring Framework/1.13 AOP介绍.md",
     "概念/耦合.md",
     "概念/字段注入、构造函数注入区别.md",
     "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md",
@@ -217,7 +231,6 @@
     "第一章 Spring Framework",
     "概念",
     "概念/attachments",
-    "Spring/第一章 Spring Framework/1.4 Sping IOC基于XML.md",
     "Spring/第一章 Spring Framework",
     "Spring",
     "Source",
