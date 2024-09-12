@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.14 AOP的使用.md",
+                "file": "第一章 Spring Framework/1.14 AOP的使用 💎.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.14 AOP的使用.md",
+                "file": "第一章 Spring Framework/1.14 AOP的使用 💎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.14 AOP的使用.md",
+                "file": "第一章 Spring Framework/1.14 AOP的使用 💎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.14 AOP的使用.md"
+                "file": "第一章 Spring Framework/1.14 AOP的使用 💎.md"
               }
             }
           },
@@ -173,10 +173,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bce2fe55505f344",
+  "active": "bc40ed4ec51083fd",
   "lastOpenFiles": [
     "第一章 Spring Framework/1.13 AOP介绍.md",
-    "第一章 Spring Framework/1.14 AOP的使用.md",
+    "第一章 Spring Framework/1.14 AOP的使用 💎.md",
     "概念/日志记录切面示例.md",
     "第一章 Spring Framework/1.08 IOC Bean 💎.md",
     "概念/Bean.md",
