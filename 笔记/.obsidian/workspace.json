@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.13 AOP介绍.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82640e45ef3e1562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "第一章 Spring Framework/1.14 AOP的使用.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82640e45ef3e1562",
+  "active": "8bce2fe55505f344",
   "lastOpenFiles": [
     "第一章 Spring Framework/1.13 AOP介绍.md",
     "第一章 Spring Framework/1.14 AOP的使用.md",
+    "概念/日志记录切面示例.md",
     "第一章 Spring Framework/1.08 IOC Bean 💎.md",
     "概念/Bean.md",
     "第一章 Spring Framework/1.07 Spring Boot介绍.md",
@@ -227,7 +215,6 @@
     "Source/img",
     "第一章 Spring Framework/1.7 Spring Boot介绍 1.md",
     "第一章 Spring Framework/attachments",
-    "未命名/未命名.md",
     "第一章 Spring Framework",
     "概念",
     "概念/attachments",
