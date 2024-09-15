@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Source/壁纸.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "514142b65597db36",
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
+                "file": "Source/壁纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
+                "file": "Source/壁纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.15 深入 AOP 通知类型.md"
+                "file": "Source/壁纸.md"
               }
             }
           },
@@ -196,11 +194,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22ef2af378f2c220",
+  "active": "bc40ed4ec51083fd",
   "lastOpenFiles": [
+    "Source/attachments/Pasted image 20240915201451.png",
+    "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
     "第一章 Spring Framework/1.14 AOP的使用 💎.md",
     "Source/壁纸.md",
-    "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
     "Source/attachments/gqj.jpg",
     "Source/attachments/dj.png",
     "Source/attachments/gmzr_3.png",
