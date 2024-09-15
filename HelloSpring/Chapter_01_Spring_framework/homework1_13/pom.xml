@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.github.coorus</groupId>
-    <artifactId>homework1_13</artifactId>
+    <artifactId>homework1_13_1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>homework1_13</name>
-    <description>homework1_13</description>
+    <name>homework1_13_1</name>
+    <description>homework1_13_1</description>
     <url/>
     <licenses>
         <license/>

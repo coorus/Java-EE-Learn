@@ -1,4 +1,4 @@
-![gmzr](../Source/img/demon_slayer_kimetsu_no_yaiba.png)
+![gmzr](../Source/attachments/gmzr_1.png)
 ### 函数及描述
 
 | 函数                                                | 描述                                                                                                                                                         |

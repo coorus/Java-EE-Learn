@@ -1,32 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "1.15 深入 AOP 通知类型",
+      "path": "第一章 Spring Framework/1.15 深入 AOP 通知类型.md"
+    },
+    {
       "basename": "1.14 AOP的使用 💎",
       "path": "第一章 Spring Framework/1.14 AOP的使用 💎.md"
+    },
+    {
+      "basename": "壁纸",
+      "path": "Source/壁纸.md"
+    },
+    {
+      "basename": "gqj",
+      "path": "Source/attachments/gqj.jpg"
+    },
+    {
+      "basename": "dj",
+      "path": "Source/attachments/dj.png"
+    },
+    {
+      "basename": "gmzr_3",
+      "path": "Source/attachments/gmzr_3.png"
+    },
+    {
+      "basename": "gmzr_2",
+      "path": "Source/attachments/gmzr_2.png"
+    },
+    {
+      "basename": "gmzr_1",
+      "path": "Source/attachments/gmzr_1.png"
+    },
+    {
+      "basename": "hdr",
+      "path": "Source/attachments/hdr.png"
+    },
+    {
+      "basename": "xljdlnp",
+      "path": "Source/attachments/xljdlnp.png"
+    },
+    {
+      "basename": "zshz",
+      "path": "Source/attachments/zshz.png"
+    },
+    {
+      "basename": "1.11 深入IOC 生命周期回调 💎",
+      "path": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md"
+    },
+    {
+      "basename": "1.10 深入IOC 条件注解",
+      "path": "第一章 Spring Framework/1.10 深入IOC 条件注解.md"
+    },
+    {
+      "basename": "1.09 深入IOC DI 💎",
+      "path": "第一章 Spring Framework/1.09 深入IOC DI 💎.md"
     },
     {
       "basename": "1.13 AOP介绍",
       "path": "第一章 Spring Framework/1.13 AOP介绍.md"
     },
     {
-      "basename": "日志记录切面示例",
-      "path": "概念/日志记录切面示例.md"
+      "basename": "1.12 深入IOC循环依赖 💎",
+      "path": "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md"
+    },
+    {
+      "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）💎",
+      "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md"
     },
     {
       "basename": "1.08 IOC Bean 💎",
       "path": "第一章 Spring Framework/1.08 IOC Bean 💎.md"
     },
     {
-      "basename": "Bean",
-      "path": "概念/Bean.md"
-    },
-    {
       "basename": "1.07 Spring Boot介绍",
       "path": "第一章 Spring Framework/1.07 Spring Boot介绍.md"
     },
     {
-      "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）💎",
-      "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md"
+      "basename": "日志记录切面示例",
+      "path": "概念/日志记录切面示例.md"
+    },
+    {
+      "basename": "Bean",
+      "path": "概念/Bean.md"
     },
     {
       "basename": "1.05 Spring IOC 基于注解（Spring 2.0）",
@@ -45,56 +101,24 @@
       "path": "概念/字段注入、构造函数注入区别.md"
     },
     {
-      "basename": "1.12 深入IOC循环依赖 💎",
-      "path": "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md"
-    },
-    {
-      "basename": "1.10 深入IOC 条件注解",
-      "path": "第一章 Spring Framework/1.10 深入IOC 条件注解.md"
-    },
-    {
-      "basename": "1.11 深入IOC 生命周期回调 💎",
-      "path": "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md"
-    },
-    {
-      "basename": "1.09 深入IOC DI 💎",
-      "path": "第一章 Spring Framework/1.09 深入IOC DI 💎.md"
-    },
-    {
       "basename": "git",
       "path": "其他操作/git.md"
     },
     {
-      "basename": "shinobu_kochō",
-      "path": "Source/img/shinobu_kochō.png"
-    },
-    {
       "basename": "sinon_1",
-      "path": "Source/img/sinon_1.png"
+      "path": "Source/attachments/sinon_1.png"
     },
     {
       "basename": "sinon_2",
-      "path": "Source/img/sinon_2.png"
+      "path": "Source/attachments/sinon_2.png"
     },
     {
       "basename": "QQ_1725527186381",
       "path": "第一章 Spring Framework/attachments/QQ_1725527186381.png"
     },
     {
-      "basename": "dj",
-      "path": "Source/img/dj.png"
-    },
-    {
-      "basename": "demon_slayer_kimetsu_no_yaiba",
-      "path": "Source/img/demon_slayer_kimetsu_no_yaiba.png"
-    },
-    {
-      "basename": "miss_kobayashi_s_dragon_maid",
-      "path": "Source/img/miss_kobayashi_s_dragon_maid.png"
-    },
-    {
-      "basename": "spy_family",
-      "path": "Source/img/spy_family.png"
+      "basename": "jdgjj",
+      "path": "Source/attachments/jdgjj.png"
     },
     {
       "basename": "背景图",
@@ -102,7 +126,7 @@
     },
     {
       "basename": "sinon",
-      "path": "Source/img/sinon.png"
+      "path": "Source/attachments/sinon.png"
     },
     {
       "basename": "QQ_1724742940722",
@@ -175,30 +199,6 @@
     {
       "basename": "笔记",
       "path": "专业通识/互联网职业通讲/笔记.md"
-    },
-    {
-      "basename": "05、最艺术的业余摄影：史蒂芬·肖尔，Stephen Shore",
-      "path": "读书笔记/04、黄金时代的摄影50讲/05、最艺术的业余摄影：史蒂芬·肖尔，Stephen Shore.md"
-    },
-    {
-      "basename": "爱德华·鲁沙 Edward Ruscha",
-      "path": "读书笔记/04、黄金时代的摄影50讲/概念/爱德华·鲁沙 Edward Ruscha.md"
-    },
-    {
-      "basename": "波普艺术",
-      "path": "读书笔记/04、黄金时代的摄影50讲/概念/波普艺术.md"
-    },
-    {
-      "basename": "04、彩色摄影之父：William Eggleston 威廉·艾格斯顿",
-      "path": "读书笔记/04、黄金时代的摄影50讲/04、彩色摄影之父：William Eggleston 威廉·艾格斯顿.md"
-    },
-    {
-      "basename": "03、现代设计的核心特征：现代建筑概述（上）",
-      "path": "读书笔记/03、世界现代设计通识课/03、现代设计的核心特征：现代建筑概述（上）.md"
-    },
-    {
-      "basename": "03、表达能力：会说的关键在会听",
-      "path": "读书笔记/05、关键对话20讲/03、表达能力：会说的关键在会听.md"
     }
   ],
   "omittedPaths": [],
