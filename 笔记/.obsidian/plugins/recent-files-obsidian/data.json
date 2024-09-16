@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "壁纸",
-      "path": "Source/壁纸.md"
+      "basename": "1.16 深入 AOP 切点表达式 💎",
+      "path": "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md"
+    },
+    {
+      "basename": "zshz",
+      "path": "Source/attachments/zshz.png"
     },
     {
       "basename": "1.15 深入 AOP 通知类型",
       "path": "第一章 Spring Framework/1.15 深入 AOP 通知类型.md"
+    },
+    {
+      "basename": "壁纸",
+      "path": "Source/壁纸.md"
     },
     {
       "basename": "1.14 AOP的使用 💎",
@@ -39,10 +47,6 @@
     {
       "basename": "xljdlnp",
       "path": "Source/attachments/xljdlnp.png"
-    },
-    {
-      "basename": "zshz",
-      "path": "Source/attachments/zshz.png"
     },
     {
       "basename": "1.11 深入IOC 生命周期回调 💎",
@@ -195,10 +199,6 @@
     {
       "basename": "05、逻辑思维：建构起理性世界的根本秩序",
       "path": "读书笔记/05、关键对话20讲/05、逻辑思维：建构起理性世界的根本秩序.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "专业通识/互联网职业通讲/笔记.md"
     }
   ],
   "omittedPaths": [],

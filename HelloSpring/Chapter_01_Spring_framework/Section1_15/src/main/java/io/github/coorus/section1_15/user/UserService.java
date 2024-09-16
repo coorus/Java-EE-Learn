@@ -4,8 +4,9 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class UserService {
-    public void add(User user) {
+    public User add(User user) {
         System.out.println("添加用户" + user);
+        return user;
     }
 
     public void add(int user) {
