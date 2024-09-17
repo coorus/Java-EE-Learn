@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ddef6ff9eca8dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "配置",
+                "query": "1.1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md",
+                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md",
+                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md"
+                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md"
               }
             }
           },
@@ -173,11 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca2ea40f073a3897",
+  "active": "6ddef6ff9eca8dc1",
   "lastOpenFiles": [
-    "Source/attachments/zshz.png",
-    "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
+    "第一章 Spring Framework/attachments/Pasted image 20240917231103.png",
+    "第一章 Spring Framework/attachments/Pasted image 20240917224048.png",
     "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md",
+    "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
+    "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
+    "Source/attachments/zshz.png",
     "Source/壁纸.md",
     "Source/attachments/Pasted image 20240915214520.png",
     "Source/attachments/Pasted image 20240915201451.png",
@@ -188,8 +204,6 @@
     "Source/attachments/gmzr_2.png",
     "Source/attachments/gmzr_1.png",
     "Source/attachments/hdr.png",
-    "Source/attachments/xljdlnp.png",
-    "Source/attachments/QQ_1726402071008.png",
     "Source/attachments",
     "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
     "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
@@ -213,7 +227,6 @@
     "其他操作",
     "概念/ChatGPT提示语.md",
     "概念/IntelliJ IDEA编辑模板变量详解(Edit Template Variables).md",
-    "概念/依赖注入.md",
     "Source/img",
     "第一章 Spring Framework/attachments",
     "第一章 Spring Framework",

@@ -14,6 +14,7 @@ public class Section115Application {
         User user = run.getBean(User.class);
         UserService userService = run.getBean(UserService.class);
         userService.add(user);
+        userService.remove(1);
     }
 
 }

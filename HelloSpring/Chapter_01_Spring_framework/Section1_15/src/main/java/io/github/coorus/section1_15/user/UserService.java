@@ -1,5 +1,7 @@
 package io.github.coorus.section1_15.user;
 
+import io.github.coorus.section1_15.annotation.Log;
+import io.github.coorus.section1_15.annotation.Work;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -13,6 +15,7 @@ public class UserService {
         System.out.println("添加用户" + user);
     }
 
+    @Log
     public void remove(Integer id) {
         System.out.println("删除用户" + id);
     }
