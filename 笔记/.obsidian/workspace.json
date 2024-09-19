@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md",
+                "file": "第一章 Spring Framework/1.09 深入IOC DI 💎.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,8 +25,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
+                "file": "第一章 Spring Framework/1.18 连接数据库⭐.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14ddf8a00fd3bc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概念/IDEA快捷键.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
+                "file": "第一章 Spring Framework/1.18 连接数据库⭐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
+                "file": "第一章 Spring Framework/1.18 连接数据库⭐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.17 深入AOP原理 💎.md"
+                "file": "第一章 Spring Framework/1.18 连接数据库⭐.md"
               }
             }
           },
@@ -188,10 +200,18 @@
   },
   "active": "6ddef6ff9eca8dc1",
   "lastOpenFiles": [
-    "第一章 Spring Framework/attachments/Pasted image 20240917231103.png",
-    "第一章 Spring Framework/attachments/Pasted image 20240917224048.png",
+    "第一章 Spring Framework/attachments/Pasted image 20240919151808.png",
+    "概念/IDEA快捷键.md",
+    "第一章 Spring Framework/1.18 连接数据库⭐.md",
+    "第一章 Spring Framework/1.09 深入IOC DI 💎.md",
     "第一章 Spring Framework/1.16 深入 AOP 切点表达式 💎.md",
     "第一章 Spring Framework/1.17 深入AOP原理 💎.md",
+    "第一章 Spring Framework/attachments/Pasted image 20240919141045.png",
+    "第一章 Spring Framework/attachments/Pasted image 20240917231103.png",
+    "第一章 Spring Framework/attachments/Pasted image 20240919140951.png",
+    "第一章 Spring Framework/attachments/Pasted image 20240917224048.png",
+    "第一章 Spring Framework/attachments/QQ_1725602707364.png",
+    "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
     "第一章 Spring Framework/1.15 深入 AOP 通知类型.md",
     "Source/attachments/zshz.png",
     "Source/壁纸.md",
@@ -200,14 +220,8 @@
     "第一章 Spring Framework/1.14 AOP的使用 💎.md",
     "Source/attachments/gqj.jpg",
     "Source/attachments/dj.png",
-    "Source/attachments/gmzr_3.png",
-    "Source/attachments/gmzr_2.png",
-    "Source/attachments/gmzr_1.png",
-    "Source/attachments/hdr.png",
     "Source/attachments",
-    "第一章 Spring Framework/1.11 深入IOC 生命周期回调 💎.md",
     "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
-    "第一章 Spring Framework/1.09 深入IOC DI 💎.md",
     "第一章 Spring Framework/1.13 AOP介绍.md",
     "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md",
     "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md",
@@ -225,8 +239,6 @@
     "Source/dictionary.md",
     "其他操作/attachments",
     "其他操作",
-    "概念/ChatGPT提示语.md",
-    "概念/IntelliJ IDEA编辑模板变量详解(Edit Template Variables).md",
     "Source/img",
     "第一章 Spring Framework/attachments",
     "第一章 Spring Framework",
