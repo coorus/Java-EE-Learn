@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "1.19 操作数据库 🪐",
-      "path": "第一章 Spring Framework/1.19 操作数据库 🪐.md"
+      "basename": "1.20 数据库事务",
+      "path": "第一章 Spring Framework/1.20 数据库事务.md"
+    },
+    {
+      "basename": "1.14 AOP的使用 💎",
+      "path": "第一章 Spring Framework/1.14 AOP的使用 💎.md"
+    },
+    {
+      "basename": "1.08 IOC Bean 💎",
+      "path": "第一章 Spring Framework/1.08 IOC Bean 💎.md"
     },
     {
       "basename": "1.18 连接数据库⭐",
       "path": "第一章 Spring Framework/1.18 连接数据库⭐.md"
     },
     {
+      "basename": "1.19 操作数据库 🪐",
+      "path": "第一章 Spring Framework/1.19 操作数据库 🪐.md"
+    },
+    {
       "basename": "IDEA快捷键",
       "path": "概念/IDEA快捷键.md"
+    },
+    {
+      "basename": "Entity",
+      "path": "概念/Entity.md"
     },
     {
       "basename": "1.09 深入IOC DI 💎",
@@ -51,10 +67,6 @@
     {
       "basename": "壁纸",
       "path": "Source/壁纸.md"
-    },
-    {
-      "basename": "1.14 AOP的使用 💎",
-      "path": "第一章 Spring Framework/1.14 AOP的使用 💎.md"
     },
     {
       "basename": "gqj",
@@ -99,10 +111,6 @@
     {
       "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）💎",
       "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md"
-    },
-    {
-      "basename": "1.08 IOC Bean 💎",
-      "path": "第一章 Spring Framework/1.08 IOC Bean 💎.md"
     },
     {
       "basename": "1.07 Spring Boot介绍",
@@ -191,14 +199,6 @@
     {
       "basename": "包和访问控制权限",
       "path": "Java SE基础/第一章 JRE、JVM、JDK/包和访问控制权限.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Java SE基础/第一章 JRE、JVM、JDK/未命名.md"
-    },
-    {
-      "basename": "JVM、JRE、JDK",
-      "path": "Java SE基础/第一章 JRE、JVM、JDK/JVM、JRE、JDK.md"
     }
   ],
   "omittedPaths": [],
