@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "1.20 数据库事务",
-      "path": "第一章 Spring Framework/1.20 数据库事务.md"
+      "basename": "1.19 操作数据库 🪐",
+      "path": "第一章 Spring Framework/1.19 操作数据库 🪐.md"
     },
     {
       "basename": "1.14 AOP的使用 💎",
       "path": "第一章 Spring Framework/1.14 AOP的使用 💎.md"
+    },
+    {
+      "basename": "1.20 数据库事务",
+      "path": "第一章 Spring Framework/1.20 数据库事务.md"
+    },
+    {
+      "basename": "1.04 Spring IOC 基于XML（Spring1.0）",
+      "path": "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md"
+    },
+    {
+      "basename": "1.05 Spring IOC 基于注解（Spring 2.0）",
+      "path": "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md"
+    },
+    {
+      "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）💎",
+      "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md"
     },
     {
       "basename": "1.08 IOC Bean 💎",
@@ -15,10 +31,6 @@
     {
       "basename": "1.18 连接数据库⭐",
       "path": "第一章 Spring Framework/1.18 连接数据库⭐.md"
-    },
-    {
-      "basename": "1.19 操作数据库 🪐",
-      "path": "第一章 Spring Framework/1.19 操作数据库 🪐.md"
     },
     {
       "basename": "IDEA快捷键",
@@ -109,10 +121,6 @@
       "path": "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md"
     },
     {
-      "basename": "1.06 Spring IOC 基于配置类（Spring 3.0）💎",
-      "path": "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md"
-    },
-    {
       "basename": "1.07 Spring Boot介绍",
       "path": "第一章 Spring Framework/1.07 Spring Boot介绍.md"
     },
@@ -123,14 +131,6 @@
     {
       "basename": "Bean",
       "path": "概念/Bean.md"
-    },
-    {
-      "basename": "1.05 Spring IOC 基于注解（Spring 2.0）",
-      "path": "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md"
-    },
-    {
-      "basename": "1.04 Spring IOC 基于XML（Spring1.0）",
-      "path": "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md"
     },
     {
       "basename": "耦合",

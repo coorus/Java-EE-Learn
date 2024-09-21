@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章 Spring Framework/1.20 数据库事务.md",
+                "file": "第一章 Spring Framework/1.19 操作数据库 🪐.md",
                 "mode": "preview",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Service",
+                "query": "IOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "514142b65597db36",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 Spring Framework/1.20 数据库事务.md",
+                "file": "第一章 Spring Framework/1.19 操作数据库 🪐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 Spring Framework/1.20 数据库事务.md",
+                "file": "第一章 Spring Framework/1.19 操作数据库 🪐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 Spring Framework/1.20 数据库事务.md"
+                "file": "第一章 Spring Framework/1.19 操作数据库 🪐.md"
               }
             }
           },
@@ -190,9 +189,12 @@
   "lastOpenFiles": [
     "第一章 Spring Framework/1.14 AOP的使用 💎.md",
     "第一章 Spring Framework/1.20 数据库事务.md",
+    "第一章 Spring Framework/1.19 操作数据库 🪐.md",
+    "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md",
+    "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md",
+    "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md",
     "第一章 Spring Framework/1.08 IOC Bean 💎.md",
     "第一章 Spring Framework/1.18 连接数据库⭐.md",
-    "第一章 Spring Framework/1.19 操作数据库 🪐.md",
     "概念/IDEA快捷键.md",
     "概念/Entity.md",
     "第一章 Spring Framework/1.09 深入IOC DI 💎.md",
@@ -215,12 +217,9 @@
     "第一章 Spring Framework/1.10 深入IOC 条件注解.md",
     "第一章 Spring Framework/1.13 AOP介绍.md",
     "第一章 Spring Framework/1.12 深入IOC循环依赖 💎.md",
-    "第一章 Spring Framework/1.06 Spring IOC 基于配置类（Spring 3.0）💎.md",
     "第一章 Spring Framework/1.07 Spring Boot介绍.md",
     "概念/日志记录切面示例.md",
     "概念/Bean.md",
-    "第一章 Spring Framework/1.05 Spring IOC 基于注解（Spring 2.0）.md",
-    "第一章 Spring Framework/1.04 Spring IOC 基于XML（Spring1.0）.md",
     "概念/耦合.md",
     "概念/字段注入、构造函数注入区别.md",
     "第一章 Spring Framework/1.13 AOP介绍 1.md",

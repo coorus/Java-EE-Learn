@@ -62,6 +62,7 @@ h3::before, h4::before, h5::before, h6::before {
   --p-line-height: 1.8em;
 
   --h3-primary-color: 40, 110, 180;
+/*--h3-primary-color: 60, 60, 60;*/
   --h4-primary-color: 130, 130, 50;
   --h5-primary-color: 70, 150, 120;
   --h6-primary-color: 150, 70, 150;
